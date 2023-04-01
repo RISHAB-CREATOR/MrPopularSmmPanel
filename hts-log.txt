@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Apr 2023 15:53:02 at https://en.mrpopular.net +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://en.mrpopular.net -O1 "C:\My Web Sites\https___en.mrpopular.net" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:57:13	Warning: 	File not parsed, looks like binary: https://en.mrpopular.net/css/webfonts/fa-brands-400.woff2
+15:57:14	Warning: 	File not parsed, looks like binary: https://en.mrpopular.net/css/webfonts/fa-regular-400.woff2
+15:57:14	Warning: 	File not parsed, looks like binary: https://en.mrpopular.net/css/webfonts/fa-solid-900.woff2
+15:57:21	Warning: 	Link https://en.mrpopular.net/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+16:00:19	Warning: 	Moved Permanently for https://en.mrpopular.net/?category=socialnetworks&type=TikTok
+16:00:19	Warning: 	File has moved from https://en.mrpopular.net/?category=socialnetworks&type=TikTok to /?category=socialnetworks&type=TT
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 4 seconds : 1625 links scanned, 1623 files written (89027827 bytes overall) [77829116 bytes received at 117212 bytes/sec], 19225351 bytes transferred using HTTP compression in 1610 files, ratio 34%, 147.8 requests per connection
+(No errors, 6 warnings, 0 messages)

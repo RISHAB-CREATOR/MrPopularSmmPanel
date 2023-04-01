@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en.mrpopular.net	TRUE	/	FALSE	1999999999	PHPSESSID	m2rg0t48jm0impjkahqvjhdfm3
+.mrpopular.net	TRUE	/	FALSE	1999999999	hl	en
+.yandex.ru	TRUE	/	FALSE	1999999999	i	w7RX6x0WrxArQTUHY/yk6J5siFP02pIkm+6OEVFOeC3VPeroR5k5rC68DakNd3Izaf2JJfUR3qoNcVwiSeIeesMJfDY=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	1452126051680344642
+
